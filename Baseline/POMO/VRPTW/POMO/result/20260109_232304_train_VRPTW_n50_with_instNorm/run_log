@@ -1,0 +1,24 @@
+[2026-01-09 22:23:06] train_n50.py(123) : DEBUG_MODE: False
+[2026-01-09 22:23:06] train_n50.py(124) : USE_CUDA: True, CUDA_DEVICE_NUM: 0
+[2026-01-09 22:23:06] train_n50.py(125) : env_params{'problem_type': 'VRPTW', 'problem_size': 100, 'pomo_size': 100}
+[2026-01-09 22:23:06] train_n50.py(125) : model_params{'embedding_dim': 128, 'sqrt_embedding_dim': 11.313708498984761, 'encoder_layer_num': 6, 'qkv_dim': 16, 'head_num': 8, 'logit_clipping': 10, 'ff_hidden_dim': 512, 'eval_type': 'argmax'}
+[2026-01-09 22:23:06] train_n50.py(125) : optimizer_params{'optimizer': {'lr': 0.0001, 'weight_decay': 1e-06}, 'scheduler': {'milestones': [8001, 8051], 'gamma': 0.1}}
+[2026-01-09 22:23:06] train_n50.py(125) : trainer_params{'use_cuda': True, 'cuda_device_num': 0, 'epochs': 10000, 'train_episodes': 10000, 'train_batch_size': 64, 'prev_model_path': None, 'logging': {'model_save_interval': 100, 'img_save_interval': 100, 'log_image_params_1': {'json_foldername': 'log_image_style', 'filename': 'style_VRPTW_50.json'}, 'log_image_params_2': {'json_foldername': 'log_image_style', 'filename': 'style_loss_1.json'}}, 'model_load': {'enable': False}}
+[2026-01-09 22:23:06] train_n50.py(125) : logger_params{'log_file': {'desc': 'train_VRPTW_n50_with_instNorm', 'filename': 'run_log', 'filepath': './result/20260109_232304_train_VRPTW_n50_with_instNorm'}}
+[2026-01-09 22:23:07] VRPTrainer.py(69) : =================================================================
+[2026-01-09 22:23:08] VRPTrainer.py(148) : Epoch   1: Train  64/10000(0.6%)  Score: 88.2195,  Loss: -1.3134
+[2026-01-09 22:23:09] VRPTrainer.py(148) : Epoch   1: Train 128/10000(1.3%)  Score: 80.8049,  Loss: -3.5948
+[2026-01-09 22:23:09] VRPTrainer.py(148) : Epoch   1: Train 192/10000(1.9%)  Score: 75.4469,  Loss: -5.1239
+[2026-01-09 22:23:10] VRPTrainer.py(148) : Epoch   1: Train 256/10000(2.6%)  Score: 71.7602,  Loss: -6.0814
+[2026-01-09 22:23:10] VRPTrainer.py(148) : Epoch   1: Train 320/10000(3.2%)  Score: 69.0994,  Loss: -6.7000
+[2026-01-09 22:23:10] VRPTrainer.py(148) : Epoch   1: Train 384/10000(3.8%)  Score: 66.9086,  Loss: -7.0665
+[2026-01-09 22:23:11] VRPTrainer.py(148) : Epoch   1: Train 448/10000(4.5%)  Score: 64.9066,  Loss: -7.3526
+[2026-01-09 22:23:11] VRPTrainer.py(148) : Epoch   1: Train 512/10000(5.1%)  Score: 63.1156,  Loss: -7.4232
+[2026-01-09 22:23:11] VRPTrainer.py(148) : Epoch   1: Train 576/10000(5.8%)  Score: 61.5401,  Loss: -7.4389
+[2026-01-09 22:23:12] VRPTrainer.py(148) : Epoch   1: Train 640/10000(6.4%)  Score: 60.1387,  Loss: -7.4118
+[2026-01-09 22:23:57] VRPTrainer.py(153) : Epoch   1: Train (100%)  Score: 44.1024,  Loss: -5.6621
+[2026-01-09 22:23:57] VRPTrainer.py(83) : Epoch   1/10000: Time Est.: Elapsed[0.83m], Remain[138.01h]
+[2026-01-09 22:23:57] VRPTrainer.py(69) : =================================================================
+[2026-01-09 22:24:41] VRPTrainer.py(153) : Epoch   2: Train (100%)  Score: 40.5876,  Loss: -5.0245
+[2026-01-09 22:24:41] VRPTrainer.py(83) : Epoch   2/10000: Time Est.: Elapsed[1.56m], Remain[130.20h]
+[2026-01-09 22:24:41] VRPTrainer.py(92) : Saving log_image

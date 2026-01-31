@@ -1,0 +1,31 @@
+[2025-12-18 21:42:49] CVRPTester.py(98) : episode 2000/10000, Elapsed[0.33m], Remain[1.30m], score:15.905, aug_score:15.799
+[2025-12-18 21:43:05] CVRPTester.py(98) : episode 4000/10000, Elapsed[0.59m], Remain[0.89m], score:15.861, aug_score:15.753
+[2025-12-18 21:43:21] CVRPTester.py(98) : episode 6000/10000, Elapsed[0.86m], Remain[0.57m], score:15.906, aug_score:15.801
+[2025-12-18 21:43:37] CVRPTester.py(98) : episode 8000/10000, Elapsed[1.12m], Remain[0.28m], score:15.907, aug_score:15.801
+[2025-12-18 21:43:53] CVRPTester.py(98) : episode 10000/10000, Elapsed[1.39m], Remain[0.00m], score:15.938, aug_score:15.831
+[2025-12-18 21:43:53] CVRPTester.py(104) :  *** Test Done *** 
+[2025-12-18 21:43:53] CVRPTester.py(105) :  NO-AUG SCORE: 15.9035 
+[2025-12-18 21:43:53] CVRPTester.py(106) :  AUGMENTATION SCORE: 15.7969 
+[2025-12-18 21:43:53] CVRPTester.py(108) :  SOLUTION SCORE: 15.6466 
+[2025-12-18 21:43:53] CVRPTester.py(109) :             GAP: 0.9606% 
+[2025-12-18 21:43:56] CVRPTester.py(98) : episode 128/128, Elapsed[0.05m], Remain[0.00m], score:20.652, aug_score:20.510
+[2025-12-18 21:43:56] CVRPTester.py(104) :  *** Test Done *** 
+[2025-12-18 21:43:56] CVRPTester.py(105) :  NO-AUG SCORE: 20.6518 
+[2025-12-18 21:43:56] CVRPTester.py(106) :  AUGMENTATION SCORE: 20.5099 
+[2025-12-18 21:43:56] CVRPTester.py(108) :  SOLUTION SCORE: 20.1726 
+[2025-12-18 21:43:56] CVRPTester.py(109) :             GAP: 1.6718% 
+[2025-12-18 21:44:14] CVRPTester.py(98) : episode 128/128, Elapsed[0.29m], Remain[0.00m], score:38.624, aug_score:38.434
+[2025-12-18 21:44:14] CVRPTester.py(104) :  *** Test Done *** 
+[2025-12-18 21:44:14] CVRPTester.py(105) :  NO-AUG SCORE: 38.6240 
+[2025-12-18 21:44:14] CVRPTester.py(106) :  AUGMENTATION SCORE: 38.4343 
+[2025-12-18 21:44:14] CVRPTester.py(108) :  SOLUTION SCORE: 37.2292 
+[2025-12-18 21:44:14] CVRPTester.py(109) :             GAP: 3.2371% 
+[2025-12-18 21:44:30] CVRPTester.py(98) : episode  32/128, Elapsed[0.27m], Remain[0.80m], score:39.638, aug_score:39.337
+[2025-12-18 21:44:45] CVRPTester.py(98) : episode  64/128, Elapsed[0.53m], Remain[0.53m], score:39.876, aug_score:39.603
+[2025-12-18 21:45:01] CVRPTester.py(98) : episode  96/128, Elapsed[0.79m], Remain[0.26m], score:40.059, aug_score:39.808
+[2025-12-18 21:45:17] CVRPTester.py(98) : episode 128/128, Elapsed[1.05m], Remain[0.00m], score:40.286, aug_score:39.954
+[2025-12-18 21:45:17] CVRPTester.py(104) :  *** Test Done *** 
+[2025-12-18 21:45:17] CVRPTester.py(105) :  NO-AUG SCORE: 39.9647 
+[2025-12-18 21:45:17] CVRPTester.py(106) :  AUGMENTATION SCORE: 39.6759 
+[2025-12-18 21:45:17] CVRPTester.py(108) :  SOLUTION SCORE: 37.0905 
+[2025-12-18 21:45:17] CVRPTester.py(109) :             GAP: 6.9705% 
