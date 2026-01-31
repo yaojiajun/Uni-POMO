@@ -1,6 +1,6 @@
 # ELG (Ensemble of Local and Global policies)
 
-This repository is the code of the https://arxiv.org/abs/2308.14104, which ensembles a transferrable local policy to boost generalization. We provide the trained models to reproduce the test results in the paper.  
+This repository is the code of the https://arxiv.org/abs/2308.14104, which ensembles a transferrable local policy to boost generalization. 
 
 ## Test ELG-POMO on VRPLIB
 
