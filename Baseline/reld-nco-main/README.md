@@ -2,10 +2,10 @@
 
 
 ## Paper
-The paper associated with this codebase can be found here [Rethinking Light Decoder-based Solvers for Vehicle Routing Problems][paper-link].
+This paper associated with this codebase can be found here [Rethinking Light Decoder-based Solvers for Vehicle Routing Problems][paper-link].
 
 ## Reference
-If you find this codebase useful, please consider citing our paper as:
+If you find this codebase useful, please consider citing their paper as:
 
 ```
 @inproceedings{
