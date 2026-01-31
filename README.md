@@ -30,15 +30,13 @@
 * Note that this project is also compatible with normal pip install -e . in case you use a different package manager.
 
 # 1. Original Settings
-For training on the original problem setting, please refer to the following:
-
+For training and testing code on single problem (CVRP, VRPTW), please refer to [.\Baseline\POMO].
 
 # 2. Cross-task
-For training on the cross-task problem setting, please refer to the following:
-
+For training and testing code on model generalization across tasks, please refer to [.\Baseline\routefinder-main].
 
 # 3. Cross-size
-For training on the cross-size problem setting, please refer to the following:
+For training and testing code on model generalization across different problem sizes, please refer to [ .\Baseline\reld-nco-main].
 
 
 ## 📂 Datasets
