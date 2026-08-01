@@ -9,7 +9,7 @@
 ![Image Description](image_path)
 
 # Example:
-![Uni-POMO Architecture](./images/1.png)
+![Uni-POMO Framework](./images/1.pdf)
 
 ## 🌟 Key Highlights
 
