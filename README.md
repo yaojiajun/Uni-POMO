@@ -13,7 +13,7 @@
 
 ## 🌟 Key Highlights
 
-* **Original Settings:** Uni-POMO boosts the classic POMO baseline, achieving better results with almost no loss in inference speed.
+* **Original Settings:** Uni-POMO enhances the classic POMO baseline, achieving better results.
 * **Cross-task:** Uni-POMO enhances cross-task models like MTPOMO, MVMoE, and RF-TE, ensuring stable gains across various complex VRP tasks.
 * **Cross-size:** Uni-POMO improves cross-size models like ELG, DAR, and ReLD, delivering strong performance even as the problem size scales up.
 
